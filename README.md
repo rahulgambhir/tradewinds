@@ -1,6 +1,6 @@
 # tradewinds
 
-The Flutter project devloping under The Uplift Project
+The Flutter project developing under The Uplift Project
 
 ## Getting Started
 
